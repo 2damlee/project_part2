@@ -23,7 +23,8 @@ class Athlete:
         self.medal = medal
         
     def print_athlete_details(self):
-        print(f"Athlete ID: {self.id}, Name: {self.name}, Sport: {self.sport}, Event: {self.event}, Medal: {self.medal}")
+        print(f"Athlete ID: {self.id}, Name: {self.name}, Sport: {self.sport}, Event: {self.event}, Medal: {self.medal}, Games: {self.games}")
+        #print(f"the lastest year: {max(self.year)}")
         
     # read CSV file and create instances
     def read_athletes_csv(file_path):
