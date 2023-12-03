@@ -1,786 +1,786 @@
 ,CountryName,Decade,Points
-0,Afghanistan,1960,0
-1,Afghanistan,1970,0
-2,Afghanistan,1980,0
-3,Afghanistan,2000,1
-4,Afghanistan,2010,1
-5,Albania,1990,0
-6,Albania,2000,0
-7,Albania,2010,0
-8,Algeria,1960,0
-9,Algeria,1970,0
-10,Algeria,1980,2
-11,Algeria,1990,5
-12,Algeria,2000,7
-13,Algeria,2010,3
-14,American Samoa,2000,0
-15,American Samoa,2010,0
-16,Andorra,1970,0
-17,Andorra,1980,0
-18,Andorra,1990,0
-19,Andorra,2000,0
-20,Andorra,2010,0
-21,Angola,1980,0
-22,Angola,1990,0
-23,Angola,2000,0
-24,Angola,2010,0
-25,Antigua and Barbuda,1980,0
-26,Antigua and Barbuda,1990,0
-27,Antigua and Barbuda,2000,0
-28,Antigua and Barbuda,2010,0
-29,Argentina,1960,3
-30,Argentina,1970,1
-31,Argentina,1980,13
-32,Argentina,1990,22
-33,Argentina,2000,120
-34,Argentina,2010,41
-35,Armenia,1990,2
-36,Armenia,2000,7
-37,Armenia,2010,7
-38,Aruba,1980,0
-39,Aruba,1990,0
-40,Aruba,2000,0
-41,Aruba,2010,0
-42,Australia,1960,138
-43,Australia,1970,43
-44,Australia,1980,100
-45,Australia,1990,192
-46,Australia,2000,491
-47,Australia,2010,202
-48,Austria,1960,32
-49,Austria,1970,14
-50,Austria,1980,28
-51,Austria,1990,66
-52,Austria,2000,63
-53,Austria,2010,51
-54,Azerbaijan,1990,1
-55,Azerbaijan,2000,15
-56,Azerbaijan,2010,28
-57,Bahrain,1980,0
-58,Bahrain,1990,0
-59,Bahrain,2000,0
-60,Bahrain,2010,3
-61,Bangladesh,1980,0
-62,Bangladesh,1990,0
-63,Bangladesh,2000,0
-64,Bangladesh,2010,0
-65,Barbados,1970,0
-66,Barbados,1980,0
-67,Barbados,1990,0
-68,Barbados,2000,1
-69,Barbados,2010,0
-70,Belarus,1990,27
-71,Belarus,2000,68
-72,Belarus,2010,44
-73,Belgium,1960,10
-74,Belgium,1970,11
-75,Belgium,1980,8
-76,Belgium,1990,10
-77,Belgium,2000,15
-78,Belgium,2010,24
-79,Belize,1960,0
-80,Belize,1970,0
-81,Belize,1980,0
-82,Belize,1990,0
-83,Belize,2000,0
-84,Belize,2010,0
-85,Benin,1970,0
-86,Benin,1980,0
-87,Benin,1990,0
-88,Benin,2000,0
-89,Benin,2010,0
-90,Bermuda,1960,0
-91,Bermuda,1970,1
-92,Bermuda,1980,0
-93,Bermuda,1990,0
-94,Bermuda,2000,0
-95,Bermuda,2010,0
-96,Bhutan,1980,0
-97,Bhutan,1990,0
-98,Bhutan,2000,0
-99,Bhutan,2010,0
-100,Bolivia,1960,0
-101,Bolivia,1970,0
-102,Bolivia,1980,0
-103,Bolivia,1990,0
-104,Bolivia,2000,0
-105,Bolivia,2010,0
-106,Bosnia and Herzegovina,1990,0
-107,Bosnia and Herzegovina,2000,0
-108,Bosnia and Herzegovina,2010,0
-109,Botswana,1980,0
-110,Botswana,1990,0
-111,Botswana,2000,0
-112,Botswana,2010,1
-113,Brazil,1960,29
-114,Brazil,1970,5
-115,Brazil,1980,68
-116,Brazil,1990,73
-117,Brazil,2000,152
-118,Brazil,2010,101
-119,Bulgaria,1980,132
-120,Bulgaria,1990,39
-121,Bulgaria,2000,39
-122,Bulgaria,2010,9
-123,Burkina Faso,1970,0
-124,Burkina Faso,1980,0
-125,Burkina Faso,1990,0
-126,Burkina Faso,2000,0
-127,Burkina Faso,2010,0
-128,Burundi,1990,1
-129,Burundi,2000,0
-130,Burundi,2010,1
-131,Cambodia,1960,0
-132,Cambodia,1970,0
-133,Cambodia,1990,0
-134,Cambodia,2000,0
-135,Cambodia,2010,0
-136,Cameroon,1960,1
-137,Cameroon,1970,0
-138,Cameroon,1980,1
-139,Cameroon,1990,0
-140,Cameroon,2000,20
-141,Cameroon,2010,0
-142,Canada,1960,64
-143,Canada,1970,38
-144,Canada,1980,120
-145,Canada,1990,208
-146,Canada,2000,222
-147,Canada,2010,286
-148,Cayman Islands,2000,0
-149,Cayman Islands,2010,0
-150,Central African Republic,1960,0
-151,Central African Republic,1980,0
-152,Central African Republic,1990,0
-153,Central African Republic,2000,0
-154,Central African Republic,2010,0
-155,Chad,1960,0
-156,Chad,1970,0
-157,Chad,1980,0
-158,Chad,1990,0
-159,Chad,2000,0
-160,Chad,2010,0
-161,Chile,1960,0
-162,Chile,1970,0
-163,Chile,1980,1
-164,Chile,1990,0
-165,Chile,2000,22
-166,Chile,2010,0
-167,China,1980,124
-168,China,1990,184
-169,China,2000,340
-170,China,2010,253
-171,Colombia,1960,0
-172,Colombia,1970,3
-173,Colombia,1980,2
-174,Colombia,1990,1
-175,Colombia,2000,5
-176,Colombia,2010,16
-177,Comoros,1990,0
-178,Comoros,2000,0
-179,Comoros,2010,0
-180,Costa Rica,1960,0
-181,Costa Rica,1970,0
-182,Costa Rica,1980,1
-183,Costa Rica,1990,1
-184,Costa Rica,2000,2
-185,Costa Rica,2010,0
-186,Cote d'Ivoire,1960,0
-187,Cote d'Ivoire,1970,0
-188,Cote d'Ivoire,1980,1
-189,Cote d'Ivoire,1990,0
-190,Cote d'Ivoire,2000,0
-191,Cote d'Ivoire,2010,2
-192,Croatia,1990,28
-193,Croatia,2000,43
-194,Croatia,2010,63
-195,Cuba,1970,46
-196,Cuba,1980,20
-197,Cuba,1990,124
-198,Cuba,2000,174
-199,Cuba,2010,25
-200,Cyprus,1980,0
-201,Cyprus,1990,0
-202,Cyprus,2000,0
-203,Cyprus,2010,1
-204,Denmark,1960,17
-205,Denmark,1970,9
-206,Denmark,1980,28
-207,Denmark,1990,42
-208,Denmark,2000,68
-209,Denmark,2010,55
-210,Djibouti,1980,1
-211,Djibouti,1990,0
-212,Djibouti,2000,0
-213,Djibouti,2010,0
-214,Dominica,1990,0
-215,Dominica,2000,0
-216,Dominica,2010,0
-217,Dominican Republic,1960,0
-218,Dominican Republic,1970,0
-219,Dominican Republic,1980,1
-220,Dominican Republic,1990,0
-221,Dominican Republic,2000,3
-222,Dominican Republic,2010,3
-223,Ecuador,1960,0
-224,Ecuador,1970,0
-225,Ecuador,1980,0
-226,Ecuador,1990,1
-227,Ecuador,2000,1
-228,Ecuador,2010,0
-229,El Salvador,1960,0
-230,El Salvador,1970,0
-231,El Salvador,1980,0
-232,El Salvador,1990,0
-233,El Salvador,2000,0
-234,El Salvador,2010,0
-235,Equatorial Guinea,1980,0
-236,Equatorial Guinea,1990,0
-237,Equatorial Guinea,2000,0
-238,Equatorial Guinea,2010,0
-239,Eritrea,2000,1
-240,Estonia,1990,0
-241,Estonia,2000,15
-242,Estonia,2010,7
-243,Ethiopia,1990,6
-244,Ethiopia,2000,22
-245,Ethiopia,2010,15
-246,Fiji,1960,0
-247,Fiji,1970,0
-248,Fiji,1980,0
-249,Fiji,1990,0
-250,Fiji,2000,0
-251,Fiji,2010,13
-252,Finland,1960,51
-253,Finland,1970,42
-254,Finland,1980,90
-255,Finland,1990,112
-256,Finland,2000,66
-257,Finland,2010,86
-258,France,1960,89
-259,France,1970,46
-260,France,1980,131
-261,France,1990,138
-262,France,2000,222
-263,France,2010,206
-264,Gabon,1970,0
-265,Gabon,1980,0
-266,Gabon,1990,0
-267,Gabon,2000,0
-268,Gabon,2010,1
-269,Georgia,1990,2
-270,Georgia,2000,16
-271,Georgia,2010,14
-272,Germany,1990,410
-273,Germany,2000,452
-274,Germany,2010,323
-275,Ghana,1960,2
-276,Ghana,1970,1
-277,Ghana,1980,0
-278,Ghana,1990,20
-279,Ghana,2000,0
-280,Ghana,2010,0
-281,Greece,1960,1
-282,Greece,1970,2
-283,Greece,1980,8
-284,Greece,1990,10
-285,Greece,2000,56
-286,Greece,2010,10
-287,Grenada,1980,0
-288,Grenada,1990,0
-289,Grenada,2000,0
-290,Grenada,2010,2
-291,Guam,2000,0
-292,Guam,2010,0
-293,Guatemala,1960,0
-294,Guatemala,1970,0
-295,Guatemala,1980,0
-296,Guatemala,1990,0
-297,Guatemala,2000,0
-298,Guatemala,2010,1
-299,Guinea,1980,0
-300,Guinea,1990,0
-301,Guinea,2000,0
-302,Guinea,2010,0
-303,Guyana,1960,0
-304,Guyana,1970,0
-305,Guyana,1980,1
-306,Guyana,1990,0
-307,Guyana,2000,0
-308,Guyana,2010,0
-309,Haiti,1960,0
-310,Haiti,1970,0
-311,Haiti,1980,0
-312,Haiti,1990,0
-313,Haiti,2000,0
-314,Haiti,2010,0
-315,Honduras,1960,0
-316,Honduras,1970,0
-317,Honduras,1980,0
-318,Honduras,1990,0
-319,Honduras,2000,0
-320,Honduras,2010,0
-321,Hungary,1990,88
-322,Hungary,2000,120
-323,Hungary,2010,48
-324,Iceland,1960,0
-325,Iceland,1970,0
-326,Iceland,1980,1
-327,Iceland,1990,0
-328,Iceland,2000,15
-329,Iceland,2010,0
-330,India,1960,44
-331,India,1970,14
-332,India,1980,16
-333,India,1990,1
-334,India,2000,5
-335,India,2010,8
-336,Indonesia,1960,0
-337,Indonesia,1970,0
-338,Indonesia,1980,3
-339,Indonesia,1990,8
-340,Indonesia,2000,12
-341,Indonesia,2010,4
-342,Iraq,1960,1
-343,Iraq,1980,0
-344,Iraq,1990,0
-345,Iraq,2000,0
-346,Iraq,2010,0
-347,Ireland,1960,1
-348,Ireland,1970,0
-349,Ireland,1980,4
-350,Ireland,1990,6
-351,Ireland,2000,4
-352,Ireland,2010,8
-353,Israel,1960,0
-354,Israel,1990,1
-355,Israel,2000,4
-356,Israel,2010,2
-357,Italy,1960,172
-358,Italy,1970,63
-359,Italy,1980,140
-360,Italy,1990,176
-361,Italy,2000,251
-362,Italy,2010,157
-363,Jamaica,1960,1
-364,Jamaica,1970,3
-365,Jamaica,1980,17
-366,Jamaica,1990,20
-367,Jamaica,2000,50
-368,Jamaica,2010,55
-369,Japan,1960,156
-370,Japan,1970,100
-371,Japan,1980,72
-372,Japan,1990,124
-373,Japan,2000,191
-374,Japan,2010,164
-375,Jordan,1980,0
-376,Jordan,1990,0
-377,Jordan,2000,0
-378,Jordan,2010,1
-379,Kazakhstan,1990,16
-380,Kazakhstan,2000,28
-381,Kazakhstan,2010,33
-382,Kenya,1960,13
-383,Kenya,1970,12
-384,Kenya,1980,12
-385,Kenya,1990,16
-386,Kenya,2000,29
-387,Kenya,2010,24
-388,Kiribati,2000,0
-389,Kiribati,2010,0
-390,Kosovo,2010,1
-391,Kuwait,1960,0
-392,Kuwait,1970,0
-393,Kuwait,1980,0
-394,Kuwait,1990,0
-395,Kuwait,2000,1
-396,Kuwait,2010,1
-397,Latvia,1990,1
-398,Latvia,2000,11
-399,Latvia,2010,7
-400,Lebanon,1980,0
-401,Lebanon,1990,0
-402,Lebanon,2000,0
-403,Lebanon,2010,0
-404,Lesotho,1970,0
-405,Lesotho,1980,0
-406,Lesotho,1990,0
-407,Lesotho,2000,0
-408,Lesotho,2010,0
-409,Liberia,2000,0
-410,Liberia,2010,0
-411,Libya,1990,0
-412,Libya,2000,0
-413,Libya,2010,0
-414,Liechtenstein,1970,2
-415,Liechtenstein,1980,7
-416,Liechtenstein,1990,0
-417,Liechtenstein,2000,0
-418,Liechtenstein,2010,0
-419,Lithuania,1990,11
-420,Lithuania,2000,25
-421,Lithuania,2010,12
-422,Luxembourg,1960,0
-423,Luxembourg,1970,0
-424,Luxembourg,1980,0
-425,Luxembourg,1990,2
-426,Luxembourg,2000,0
-427,Luxembourg,2010,0
-428,Madagascar,1960,0
-429,Madagascar,1970,0
-430,Madagascar,1980,0
-431,Madagascar,1990,0
-432,Madagascar,2000,0
-433,Madagascar,2010,0
-434,Malawi,1980,0
-435,Malawi,1990,0
-436,Malawi,2000,0
-437,Malawi,2010,0
-438,Malaysia,1960,0
-439,Malaysia,1970,0
-440,Malaysia,1980,0
-441,Malaysia,1990,1
-442,Malaysia,2000,1
-443,Malaysia,2010,10
-444,Maldives,1980,0
-445,Maldives,1990,0
-446,Maldives,2000,0
-447,Maldives,2010,0
-448,Mali,1960,0
-449,Mali,1970,0
-450,Mali,1980,0
-451,Mali,1990,0
-452,Mali,2000,0
-453,Mali,2010,0
-454,Malta,1970,0
-455,Malta,1980,0
-456,Malta,1990,0
-457,Malta,2000,0
-458,Malta,2010,0
-459,Marshall Islands,2000,0
-460,Marshall Islands,2010,0
-461,Mauritania,1980,0
-462,Mauritania,1990,0
-463,Mauritania,2000,0
-464,Mauritania,2010,0
-465,Mauritius,1980,0
-466,Mauritius,1990,0
-467,Mauritius,2000,1
-468,Mauritius,2010,0
-469,Mexico,1960,11
-470,Mexico,1970,3
-471,Mexico,1980,18
-472,Mexico,1990,2
-473,Mexico,2000,14
-474,Mexico,2010,29
-475,Moldova,1990,3
-476,Moldova,2000,3
-477,Moldova,2010,2
-478,Monaco,1970,0
-479,Monaco,1980,0
-480,Monaco,1990,0
-481,Monaco,2000,0
-482,Monaco,2010,0
-483,Mongolia,1980,1
-484,Mongolia,1990,3
-485,Mongolia,2000,5
-486,Mongolia,2010,7
-487,Montenegro,2000,0
-488,Montenegro,2010,14
-489,Morocco,1960,1
-490,Morocco,1970,0
-491,Morocco,1980,5
-492,Morocco,1990,5
-493,Morocco,2000,10
-494,Morocco,2010,2
-495,Mozambique,1990,1
-496,Mozambique,2000,1
-497,Mozambique,2010,0
-498,Myanmar,1960,0
-499,Myanmar,1970,0
-500,Myanmar,1980,0
-501,Myanmar,1990,0
-502,Myanmar,2000,0
-503,Myanmar,2010,0
-504,Namibia,1990,4
-505,Namibia,2000,0
-506,Namibia,2010,0
-507,Nauru,2010,0
-508,Nepal,1960,0
-509,Nepal,1970,0
-510,Nepal,1980,0
-511,Nepal,1990,0
-512,Nepal,2000,0
-513,Nepal,2010,0
-514,Netherlands,1960,61
-515,Netherlands,1970,35
-516,Netherlands,1980,103
-517,Netherlands,1990,125
-518,Netherlands,2000,235
-519,Netherlands,2010,154
-520,New Zealand,1960,14
-521,New Zealand,1970,39
-522,New Zealand,1980,47
-523,New Zealand,1990,25
-524,New Zealand,2000,25
-525,New Zealand,2010,63
-526,Nicaragua,1960,0
-527,Nicaragua,1970,0
-528,Nicaragua,1980,0
-529,Nicaragua,1990,0
-530,Nicaragua,2000,0
-531,Nicaragua,2010,0
-532,Niger,1960,0
-533,Niger,1970,1
-534,Niger,1980,0
-535,Niger,1990,0
-536,Niger,2000,0
-537,Niger,2010,1
-538,Nigeria,1960,1
-539,Nigeria,1970,1
-540,Nigeria,1980,5
-541,Nigeria,1990,35
-542,Nigeria,2000,39
-543,Nigeria,2010,18
-544,Norway,1960,52
-545,Norway,1970,41
-546,Norway,1980,67
-547,Norway,1990,140
-548,Norway,2000,136
-549,Norway,2010,111
-550,Oman,1980,0
-551,Oman,1990,0
-552,Oman,2000,0
-553,Oman,2010,0
-554,Pakistan,1960,43
-555,Pakistan,1970,31
-556,Pakistan,1980,17
-557,Pakistan,1990,16
-558,Pakistan,2000,0
-559,Pakistan,2010,0
-560,Palau,2000,0
-561,Palau,2010,0
-562,Panama,1960,0
-563,Panama,1970,0
-564,Panama,1980,0
-565,Panama,1990,0
-566,Panama,2000,1
-567,Panama,2010,0
-568,Papua New Guinea,1970,0
-569,Papua New Guinea,1980,0
-570,Papua New Guinea,1990,0
-571,Papua New Guinea,2000,0
-572,Papua New Guinea,2010,0
-573,Paraguay,1960,0
-574,Paraguay,1970,0
-575,Paraguay,1980,0
-576,Paraguay,1990,0
-577,Paraguay,2000,17
-578,Paraguay,2010,0
-579,Peru,1960,0
-580,Peru,1970,0
-581,Peru,1980,13
-582,Peru,1990,1
-583,Peru,2000,0
-584,Peru,2010,0
-585,Philippines,1960,1
-586,Philippines,1970,0
-587,Philippines,1980,1
-588,Philippines,1990,2
-589,Philippines,2000,0
-590,Philippines,2010,1
-591,Poland,1990,68
-592,Poland,2000,58
-593,Poland,2010,47
-594,Portugal,1960,0
-595,Portugal,1970,2
-596,Portugal,1980,4
-597,Portugal,1990,3
-598,Portugal,2000,7
-599,Portugal,2010,3
-600,Puerto Rico,1960,0
-601,Puerto Rico,1970,1
-602,Puerto Rico,1980,2
-603,Puerto Rico,1990,2
-604,Puerto Rico,2000,0
-605,Puerto Rico,2010,3
-606,Qatar,1980,0
-607,Qatar,1990,1
-608,Qatar,2000,1
-609,Qatar,2010,3
-610,Romania,1980,58
-611,Romania,1990,91
-612,Romania,2000,107
-613,Romania,2010,32
-614,Rwanda,1980,0
-615,Rwanda,1990,0
-616,Rwanda,2000,0
-617,Rwanda,2010,0
-618,Samoa,1980,0
-619,Samoa,1990,0
-620,Samoa,2000,0
-621,Samoa,2010,0
-622,San Marino,2000,0
-623,San Marino,2010,0
-624,Sao Tome and Principe,2000,0
-625,Sao Tome and Principe,2010,0
-626,Saudi Arabia,1970,0
-627,Saudi Arabia,1980,0
-628,Saudi Arabia,1990,0
-629,Saudi Arabia,2000,2
-630,Saudi Arabia,2010,4
-631,Senegal,1960,0
-632,Senegal,1970,0
-633,Senegal,1980,1
-634,Senegal,1990,0
-635,Senegal,2000,0
-636,Senegal,2010,0
-637,Serbia,2000,15
-638,Serbia,2010,70
-639,Seychelles,1980,0
-640,Seychelles,1990,0
-641,Seychelles,2000,0
-642,Seychelles,2010,0
-643,Sierra Leone,1960,0
-644,Sierra Leone,1980,0
-645,Sierra Leone,1990,0
-646,Sierra Leone,2000,0
-647,Sierra Leone,2010,0
-648,Singapore,1960,1
-649,Singapore,1970,0
-650,Singapore,1980,0
-651,Singapore,1990,0
-652,Singapore,2000,3
-653,Singapore,2010,5
-654,Slovenia,1990,2
-655,Slovenia,2000,17
-656,Slovenia,2010,20
-657,Solomon Islands,1980,0
-658,Solomon Islands,1990,0
-659,Solomon Islands,2000,0
-660,Solomon Islands,2010,0
-661,Somalia,1970,0
-662,Somalia,1980,0
-663,Somalia,2010,0
-664,South Africa,1960,3
-665,South Africa,1990,8
-666,South Africa,2000,16
-667,South Africa,2010,32
-668,Spain,1960,14
-669,Spain,1970,8
-670,Spain,1980,48
-671,Spain,1990,136
-672,Spain,2000,138
-673,Spain,2010,106
-674,Sri Lanka,1960,0
-675,Sri Lanka,1970,0
-676,Sri Lanka,1980,0
-677,Sri Lanka,1990,0
-678,Sri Lanka,2000,1
-679,Sri Lanka,2010,0
-680,Sudan,1960,0
-681,Sudan,1970,0
-682,Sudan,1980,0
-683,Sudan,1990,0
-684,Sudan,2000,1
-685,Sudan,2010,0
-686,Suriname,1960,0
-687,Suriname,1970,0
-688,Suriname,1980,1
-689,Suriname,1990,1
-690,Suriname,2000,0
-691,Suriname,2010,0
-692,Sweden,1960,79
-693,Sweden,1970,38
-694,Sweden,1980,153
-695,Sweden,1990,104
-696,Sweden,2000,139
-697,Sweden,2010,119
-698,Switzerland,1960,35
-699,Switzerland,1980,46
-700,Switzerland,1990,31
-701,Switzerland,2000,65
-702,Switzerland,2010,55
-703,Tajikistan,1990,0
-704,Tajikistan,2000,2
-705,Tajikistan,2010,2
-706,Tanzania,1980,0
-707,Tanzania,1990,0
-708,Tanzania,2000,0
-709,Tanzania,2010,0
-710,Thailand,1960,0
-711,Thailand,1970,1
-712,Thailand,1980,2
-713,Thailand,1990,3
-714,Thailand,2000,15
-715,Thailand,2010,9
-716,Togo,1970,0
-717,Togo,1980,0
-718,Togo,1990,0
-719,Togo,2000,1
-720,Togo,2010,0
-721,Tonga,1980,0
-722,Tonga,1990,1
-723,Tonga,2000,0
-724,Tonga,2010,0
-725,Trinidad and Tobago,1960,6
-726,Trinidad and Tobago,1970,1
-727,Trinidad and Tobago,1980,0
-728,Trinidad and Tobago,1990,2
-729,Trinidad and Tobago,2000,9
-730,Trinidad and Tobago,2010,11
-731,Tunisia,1960,2
-732,Tunisia,1970,1
-733,Tunisia,1980,0
-734,Tunisia,1990,1
-735,Tunisia,2000,1
-736,Tunisia,2010,6
-737,Turkmenistan,1990,0
-738,Turkmenistan,2000,0
-739,Turkmenistan,2010,0
-740,Tuvalu,2000,0
-741,Tuvalu,2010,0
-742,Uganda,1960,2
-743,Uganda,1970,2
-744,Uganda,1980,1
-745,Uganda,1990,1
-746,Uganda,2000,0
-747,Uganda,2010,1
-748,Ukraine,1990,37
-749,Ukraine,2000,114
-750,Ukraine,2010,46
-751,United Arab Emirates,1980,0
-752,United Arab Emirates,1990,0
-753,United Arab Emirates,2000,1
-754,United Arab Emirates,2010,1
-755,United States,1960,483
-756,United States,1970,368
-757,United States,1980,601
-758,United States,1990,540
-759,United States,2000,926
-760,United States,2010,635
-761,Uruguay,1960,1
-762,Uruguay,1970,0
-763,Uruguay,1980,0
-764,Uruguay,1990,0
-765,Uruguay,2000,1
-766,Uruguay,2010,0
-767,Uzbekistan,1990,3
-768,Uzbekistan,2000,15
-769,Uzbekistan,2010,16
-770,Vanuatu,1980,0
-771,Vanuatu,1990,0
-772,Vanuatu,2000,0
-773,Vanuatu,2010,0
-774,Zambia,1960,0
-775,Zambia,1970,0
-776,Zambia,1980,1
-777,Zambia,1990,1
-778,Zambia,2000,0
-779,Zambia,2010,0
-780,Zimbabwe,1960,0
-781,Zimbabwe,1980,15
-782,Zimbabwe,1990,0
-783,Zimbabwe,2000,7
-784,Zimbabwe,2010,0
+0,Afghanistan,1960,0.0
+1,Afghanistan,1970,0.0
+2,Afghanistan,1980,0.0
+3,Afghanistan,2000,1.0
+4,Afghanistan,2010,1.0
+5,Albania,1990,0.0
+6,Albania,2000,0.0
+7,Albania,2010,0.0
+8,Algeria,1960,0.0
+9,Algeria,1970,0.0
+10,Algeria,1980,2.0
+11,Algeria,1990,11.0
+12,Algeria,2000,11.0
+13,Algeria,2010,7.0
+14,American Samoa,2000,0.0
+15,American Samoa,2010,0.0
+16,Andorra,1970,0.0
+17,Andorra,1980,0.0
+18,Andorra,1990,0.0
+19,Andorra,2000,0.0
+20,Andorra,2010,0.0
+21,Angola,1980,0.0
+22,Angola,1990,0.0
+23,Angola,2000,0.0
+24,Angola,2010,0.0
+25,Antigua and Barbuda,1980,0.0
+26,Antigua and Barbuda,1990,0.0
+27,Antigua and Barbuda,2000,0.0
+28,Antigua and Barbuda,2010,0.0
+29,Argentina,1960,4.0
+30,Argentina,1970,2.0
+31,Argentina,1980,14.0
+32,Argentina,1990,41.0
+33,Argentina,2000,233.0
+34,Argentina,2010,101.0
+35,Armenia,1990,5.0
+36,Armenia,2000,7.0
+37,Armenia,2010,13.0
+38,Aruba,1980,0.0
+39,Aruba,1990,0.0
+40,Aruba,2000,0.0
+41,Aruba,2010,0.0
+42,Australia,1960,245.0
+43,Australia,1970,87.0
+44,Australia,1980,184.0
+45,Australia,1990,327.0
+46,Australia,2000,961.0
+47,Australia,2010,362.0
+48,Austria,1960,59.0
+49,Austria,1970,25.0
+50,Austria,1980,57.0
+51,Austria,1990,111.0
+52,Austria,2000,126.0
+53,Austria,2010,96.0
+54,Azerbaijan,1990,2.0
+55,Azerbaijan,2000,25.0
+56,Azerbaijan,2010,43.0
+57,Bahrain,1980,0.0
+58,Bahrain,1990,0.0
+59,Bahrain,2000,0.0
+60,Bahrain,2010,6.0
+61,Bangladesh,1980,0.0
+62,Bangladesh,1990,0.0
+63,Bangladesh,2000,0.0
+64,Bangladesh,2010,0.0
+65,Barbados,1970,0.0
+66,Barbados,1980,0.0
+67,Barbados,1990,0.0
+68,Barbados,2000,1.0
+69,Barbados,2010,0.0
+70,Belarus,1990,37.0
+71,Belarus,2000,113.0
+72,Belarus,2010,81.0
+73,Belgium,1960,17.0
+74,Belgium,1970,16.0
+75,Belgium,1980,14.0
+76,Belgium,1990,17.0
+77,Belgium,2000,26.0
+78,Belgium,2010,46.0
+79,Belize,1960,0.0
+80,Belize,1970,0.0
+81,Belize,1980,0.0
+82,Belize,1990,0.0
+83,Belize,2000,0.0
+84,Belize,2010,0.0
+85,Benin,1970,0.0
+86,Benin,1980,0.0
+87,Benin,1990,0.0
+88,Benin,2000,0.0
+89,Benin,2010,0.0
+90,Bermuda,1960,0.0
+91,Bermuda,1970,1.0
+92,Bermuda,1980,0.0
+93,Bermuda,1990,0.0
+94,Bermuda,2000,0.0
+95,Bermuda,2010,0.0
+96,Bhutan,1980,0.0
+97,Bhutan,1990,0.0
+98,Bhutan,2000,0.0
+99,Bhutan,2010,0.0
+100,Bolivia,1960,0.0
+101,Bolivia,1970,0.0
+102,Bolivia,1980,0.0
+103,Bolivia,1990,0.0
+104,Bolivia,2000,0.0
+105,Bolivia,2010,0.0
+106,Bosnia and Herzegovina,1990,0.0
+107,Bosnia and Herzegovina,2000,0.0
+108,Bosnia and Herzegovina,2010,0.0
+109,Botswana,1980,0.0
+110,Botswana,1990,0.0
+111,Botswana,2000,0.0
+112,Botswana,2010,2.0
+113,Brazil,1960,30.0
+114,Brazil,1970,5.0
+115,Brazil,1980,130.0
+116,Brazil,1990,119.0
+117,Brazil,2000,269.0
+118,Brazil,2010,235.0
+119,Bulgaria,1980,226.0
+120,Bulgaria,1990,72.0
+121,Bulgaria,2000,65.0
+122,Bulgaria,2010,11.0
+123,Burkina Faso,1970,0.0
+124,Burkina Faso,1980,0.0
+125,Burkina Faso,1990,0.0
+126,Burkina Faso,2000,0.0
+127,Burkina Faso,2010,0.0
+128,Burundi,1990,3.0
+129,Burundi,2000,0.0
+130,Burundi,2010,2.0
+131,Cambodia,1960,0.0
+132,Cambodia,1970,0.0
+133,Cambodia,1990,0.0
+134,Cambodia,2000,0.0
+135,Cambodia,2010,0.0
+136,Cameroon,1960,2.0
+137,Cameroon,1970,0.0
+138,Cameroon,1980,1.0
+139,Cameroon,1990,0.0
+140,Cameroon,2000,60.0
+141,Cameroon,2010,0.0
+142,Canada,1960,110.0
+143,Canada,1970,53.0
+144,Canada,1980,215.0
+145,Canada,1990,438.0
+146,Canada,2000,478.0
+147,Canada,2010,594.0
+148,Cayman Islands,2000,0.0
+149,Cayman Islands,2010,0.0
+150,Central African Republic,1960,0.0
+151,Central African Republic,1980,0.0
+152,Central African Republic,1990,0.0
+153,Central African Republic,2000,0.0
+154,Central African Republic,2010,0.0
+155,Chad,1960,0.0
+156,Chad,1970,0.0
+157,Chad,1980,0.0
+158,Chad,1990,0.0
+159,Chad,2000,0.0
+160,Chad,2010,0.0
+161,Chile,1960,0.0
+162,Chile,1970,0.0
+163,Chile,1980,2.0
+164,Chile,1990,0.0
+165,Chile,2000,29.0
+166,Chile,2010,0.0
+167,China,1980,209.0
+168,China,1990,358.0
+169,China,2000,741.0
+170,China,2010,534.0
+171,Colombia,1960,0.0
+172,Colombia,1970,4.0
+173,Colombia,1980,3.0
+174,Colombia,1990,1.0
+175,Colombia,2000,8.0
+176,Colombia,2010,29.0
+177,Comoros,1990,0.0
+178,Comoros,2000,0.0
+179,Comoros,2010,0.0
+180,Costa Rica,1960,0.0
+181,Costa Rica,1970,0.0
+182,Costa Rica,1980,2.0
+183,Costa Rica,1990,3.0
+184,Costa Rica,2000,2.0
+185,Costa Rica,2010,0.0
+186,Cote d'Ivoire,1960,0.0
+187,Cote d'Ivoire,1970,0.0
+188,Cote d'Ivoire,1980,2.0
+189,Cote d'Ivoire,1990,0.0
+190,Cote d'Ivoire,2000,0.0
+191,Cote d'Ivoire,2010,4.0
+192,Croatia,1990,72.0
+193,Croatia,2000,91.0
+194,Croatia,2010,129.0
+195,Cuba,1970,69.0
+196,Cuba,1980,43.0
+197,Cuba,1990,303.0
+198,Cuba,2000,355.0
+199,Cuba,2010,50.0
+200,Cyprus,1980,0.0
+201,Cyprus,1990,0.0
+202,Cyprus,2000,0.0
+203,Cyprus,2010,2.0
+204,Denmark,1960,33.0
+205,Denmark,1970,17.0
+206,Denmark,1980,48.0
+207,Denmark,1990,98.0
+208,Denmark,2000,165.0
+209,Denmark,2010,106.0
+210,Djibouti,1980,1.0
+211,Djibouti,1990,0.0
+212,Djibouti,2000,0.0
+213,Djibouti,2010,0.0
+214,Dominica,1990,0.0
+215,Dominica,2000,0.0
+216,Dominica,2010,0.0
+217,Dominican Republic,1960,0.0
+218,Dominican Republic,1970,0.0
+219,Dominican Republic,1980,1.0
+220,Dominican Republic,1990,0.0
+221,Dominican Republic,2000,8.0
+222,Dominican Republic,2010,6.0
+223,Ecuador,1960,0.0
+224,Ecuador,1970,0.0
+225,Ecuador,1980,0.0
+226,Ecuador,1990,3.0
+227,Ecuador,2000,2.0
+228,Ecuador,2010,0.0
+229,El Salvador,1960,0.0
+230,El Salvador,1970,0.0
+231,El Salvador,1980,0.0
+232,El Salvador,1990,0.0
+233,El Salvador,2000,0.0
+234,El Salvador,2010,0.0
+235,Equatorial Guinea,1980,0.0
+236,Equatorial Guinea,1990,0.0
+237,Equatorial Guinea,2000,0.0
+238,Equatorial Guinea,2010,0.0
+239,Eritrea,2000,1.0
+240,Estonia,1990,0.0
+241,Estonia,2000,31.0
+242,Estonia,2010,9.0
+243,Ethiopia,1990,12.0
+244,Ethiopia,2000,47.0
+245,Ethiopia,2010,26.0
+246,Fiji,1960,0.0
+247,Fiji,1970,0.0
+248,Fiji,1980,0.0
+249,Fiji,1990,0.0
+250,Fiji,2000,0.0
+251,Fiji,2010,39.0
+252,Finland,1960,94.0
+253,Finland,1970,88.0
+254,Finland,1980,164.0
+255,Finland,1990,147.0
+256,Finland,2000,132.0
+257,Finland,2010,99.0
+258,France,1960,162.0
+259,France,1970,73.0
+260,France,1980,259.0
+261,France,1990,229.0
+262,France,2000,441.0
+263,France,2010,411.0
+264,Gabon,1970,0.0
+265,Gabon,1980,0.0
+266,Gabon,1990,0.0
+267,Gabon,2000,0.0
+268,Gabon,2010,2.0
+269,Georgia,1990,2.0
+270,Georgia,2000,28.0
+271,Georgia,2010,24.0
+272,Germany,1990,863.0
+273,Germany,2000,866.0
+274,Germany,2010,655.0
+275,Ghana,1960,3.0
+276,Ghana,1970,1.0
+277,Ghana,1980,0.0
+278,Ghana,1990,20.0
+279,Ghana,2000,0.0
+280,Ghana,2010,0.0
+281,Greece,1960,1.0
+282,Greece,1970,4.0
+283,Greece,1980,11.0
+284,Greece,1990,26.0
+285,Greece,2000,107.0
+286,Greece,2010,17.0
+287,Grenada,1980,0.0
+288,Grenada,1990,0.0
+289,Grenada,2000,0.0
+290,Grenada,2010,5.0
+291,Guam,2000,0.0
+292,Guam,2010,0.0
+293,Guatemala,1960,0.0
+294,Guatemala,1970,0.0
+295,Guatemala,1980,0.0
+296,Guatemala,1990,0.0
+297,Guatemala,2000,0.0
+298,Guatemala,2010,2.0
+299,Guinea,1980,0.0
+300,Guinea,1990,0.0
+301,Guinea,2000,0.0
+302,Guinea,2010,0.0
+303,Guyana,1960,0.0
+304,Guyana,1970,0.0
+305,Guyana,1980,1.0
+306,Guyana,1990,0.0
+307,Guyana,2000,0.0
+308,Guyana,2010,0.0
+309,Haiti,1960,0.0
+310,Haiti,1970,0.0
+311,Haiti,1980,0.0
+312,Haiti,1990,0.0
+313,Haiti,2000,0.0
+314,Haiti,2010,0.0
+315,Honduras,1960,0.0
+316,Honduras,1970,0.0
+317,Honduras,1980,0.0
+318,Honduras,1990,0.0
+319,Honduras,2000,0.0
+320,Honduras,2010,0.0
+321,Hungary,1990,164.0
+322,Hungary,2000,294.0
+323,Hungary,2010,107.0
+324,Iceland,1960,0.0
+325,Iceland,1970,0.0
+326,Iceland,1980,1.0
+327,Iceland,1990,0.0
+328,Iceland,2000,29.0
+329,Iceland,2010,0.0
+330,India,1960,87.0
+331,India,1970,14.0
+332,India,1980,48.0
+333,India,1990,1.0
+334,India,2000,8.0
+335,India,2010,11.0
+336,Indonesia,1960,0.0
+337,Indonesia,1970,0.0
+338,Indonesia,1980,6.0
+339,Indonesia,1990,18.0
+340,Indonesia,2000,21.0
+341,Indonesia,2010,7.0
+342,Iraq,1960,1.0
+343,Iraq,1980,0.0
+344,Iraq,1990,0.0
+345,Iraq,2000,0.0
+346,Iraq,2010,0.0
+347,Ireland,1960,1.0
+348,Ireland,1970,0.0
+349,Ireland,1980,7.0
+350,Ireland,1990,15.0
+351,Ireland,2000,6.0
+352,Ireland,2010,14.0
+353,Israel,1960,0.0
+354,Israel,1990,1.0
+355,Israel,2000,6.0
+356,Israel,2010,2.0
+357,Italy,1960,340.0
+358,Italy,1970,120.0
+359,Italy,1980,283.0
+360,Italy,1990,346.0
+361,Italy,2000,469.0
+362,Italy,2010,270.0
+363,Jamaica,1960,2.0
+364,Jamaica,1970,6.0
+365,Jamaica,1980,29.0
+366,Jamaica,1990,28.0
+367,Jamaica,2000,96.0
+368,Jamaica,2010,119.0
+369,Japan,1960,310.0
+370,Japan,1970,236.0
+371,Japan,1980,113.0
+372,Japan,1990,206.0
+373,Japan,2000,358.0
+374,Japan,2010,278.0
+375,Jordan,1980,0.0
+376,Jordan,1990,0.0
+377,Jordan,2000,0.0
+378,Jordan,2010,3.0
+379,Kazakhstan,1990,30.0
+380,Kazakhstan,2000,52.0
+381,Kazakhstan,2010,60.0
+382,Kenya,1960,26.0
+383,Kenya,1970,25.0
+384,Kenya,1980,26.0
+385,Kenya,1990,30.0
+386,Kenya,2000,58.0
+387,Kenya,2010,50.0
+388,Kiribati,2000,0.0
+389,Kiribati,2010,0.0
+390,Kosovo,2010,3.0
+391,Kuwait,1960,0.0
+392,Kuwait,1970,0.0
+393,Kuwait,1980,0.0
+394,Kuwait,1990,0.0
+395,Kuwait,2000,1.0
+396,Kuwait,2010,1.0
+397,Latvia,1990,2.0
+398,Latvia,2000,21.0
+399,Latvia,2010,11.0
+400,Lebanon,1980,0.0
+401,Lebanon,1990,0.0
+402,Lebanon,2000,0.0
+403,Lebanon,2010,0.0
+404,Lesotho,1970,0.0
+405,Lesotho,1980,0.0
+406,Lesotho,1990,0.0
+407,Lesotho,2000,0.0
+408,Lesotho,2010,0.0
+409,Liberia,2000,0.0
+410,Liberia,2010,0.0
+411,Libya,1990,0.0
+412,Libya,2000,0.0
+413,Libya,2010,0.0
+414,Liechtenstein,1970,2.0
+415,Liechtenstein,1980,13.0
+416,Liechtenstein,1990,0.0
+417,Liechtenstein,2000,0.0
+418,Liechtenstein,2010,0.0
+419,Lithuania,1990,11.0
+420,Lithuania,2000,35.0
+421,Lithuania,2010,19.0
+422,Luxembourg,1960,0.0
+423,Luxembourg,1970,0.0
+424,Luxembourg,1980,0.0
+425,Luxembourg,1990,4.0
+426,Luxembourg,2000,0.0
+427,Luxembourg,2010,0.0
+428,Madagascar,1960,0.0
+429,Madagascar,1970,0.0
+430,Madagascar,1980,0.0
+431,Madagascar,1990,0.0
+432,Madagascar,2000,0.0
+433,Madagascar,2010,0.0
+434,Malawi,1980,0.0
+435,Malawi,1990,0.0
+436,Malawi,2000,0.0
+437,Malawi,2010,0.0
+438,Malaysia,1960,0.0
+439,Malaysia,1970,0.0
+440,Malaysia,1980,0.0
+441,Malaysia,1990,1.0
+442,Malaysia,2000,2.0
+443,Malaysia,2010,18.0
+444,Maldives,1980,0.0
+445,Maldives,1990,0.0
+446,Maldives,2000,0.0
+447,Maldives,2010,0.0
+448,Mali,1960,0.0
+449,Mali,1970,0.0
+450,Mali,1980,0.0
+451,Mali,1990,0.0
+452,Mali,2000,0.0
+453,Mali,2010,0.0
+454,Malta,1970,0.0
+455,Malta,1980,0.0
+456,Malta,1990,0.0
+457,Malta,2000,0.0
+458,Malta,2010,0.0
+459,Marshall Islands,2000,0.0
+460,Marshall Islands,2010,0.0
+461,Mauritania,1980,0.0
+462,Mauritania,1990,0.0
+463,Mauritania,2000,0.0
+464,Mauritania,2010,0.0
+465,Mauritius,1980,0.0
+466,Mauritius,1990,0.0
+467,Mauritius,2000,1.0
+468,Mauritius,2010,0.0
+469,Mexico,1960,20.0
+470,Mexico,1970,6.0
+471,Mexico,1980,26.0
+472,Mexico,1990,3.0
+473,Mexico,2000,25.0
+474,Mexico,2010,69.0
+475,Moldova,1990,5.0
+476,Moldova,2000,4.0
+477,Moldova,2010,2.0
+478,Monaco,1970,0.0
+479,Monaco,1980,0.0
+480,Monaco,1990,0.0
+481,Monaco,2000,0.0
+482,Monaco,2010,0.0
+483,Mongolia,1980,1.0
+484,Mongolia,1990,3.0
+485,Mongolia,2000,11.0
+486,Mongolia,2010,10.0
+487,Montenegro,2000,0.0
+488,Montenegro,2010,28.0
+489,Morocco,1960,2.0
+490,Morocco,1970,0.0
+491,Morocco,1980,11.0
+492,Morocco,1990,8.0
+493,Morocco,2000,17.0
+494,Morocco,2010,2.0
+495,Mozambique,1990,1.0
+496,Mozambique,2000,3.0
+497,Mozambique,2010,0.0
+498,Myanmar,1960,0.0
+499,Myanmar,1970,0.0
+500,Myanmar,1980,0.0
+501,Myanmar,1990,0.0
+502,Myanmar,2000,0.0
+503,Myanmar,2010,0.0
+504,Namibia,1990,8.0
+505,Namibia,2000,0.0
+506,Namibia,2010,0.0
+507,Nauru,2010,0.0
+508,Nepal,1960,0.0
+509,Nepal,1970,0.0
+510,Nepal,1980,0.0
+511,Nepal,1990,0.0
+512,Nepal,2000,0.0
+513,Nepal,2010,0.0
+514,Netherlands,1960,114.0
+515,Netherlands,1970,59.0
+516,Netherlands,1980,175.0
+517,Netherlands,1990,258.0
+518,Netherlands,2000,489.0
+519,Netherlands,2010,310.0
+520,New Zealand,1960,32.0
+521,New Zealand,1970,92.0
+522,New Zealand,1980,92.0
+523,New Zealand,1990,45.0
+524,New Zealand,2000,47.0
+525,New Zealand,2010,121.0
+526,Nicaragua,1960,0.0
+527,Nicaragua,1970,0.0
+528,Nicaragua,1980,0.0
+529,Nicaragua,1990,0.0
+530,Nicaragua,2000,0.0
+531,Nicaragua,2010,0.0
+532,Niger,1960,0.0
+533,Niger,1970,1.0
+534,Niger,1980,0.0
+535,Niger,1990,0.0
+536,Niger,2000,0.0
+537,Niger,2010,2.0
+538,Nigeria,1960,1.0
+539,Nigeria,1970,1.0
+540,Nigeria,1980,6.0
+541,Nigeria,1990,80.0
+542,Nigeria,2000,69.0
+543,Nigeria,2010,18.0
+544,Norway,1960,117.0
+545,Norway,1970,79.0
+546,Norway,1980,122.0
+547,Norway,1990,273.0
+548,Norway,2000,297.0
+549,Norway,2010,229.0
+550,Oman,1980,0.0
+551,Oman,1990,0.0
+552,Oman,2000,0.0
+553,Oman,2010,0.0
+554,Pakistan,1960,111.0
+555,Pakistan,1970,46.0
+556,Pakistan,1980,49.0
+557,Pakistan,1990,16.0
+558,Pakistan,2000,0.0
+559,Pakistan,2010,0.0
+560,Palau,2000,0.0
+561,Palau,2010,0.0
+562,Panama,1960,0.0
+563,Panama,1970,0.0
+564,Panama,1980,0.0
+565,Panama,1990,0.0
+566,Panama,2000,3.0
+567,Panama,2010,0.0
+568,Papua New Guinea,1970,0.0
+569,Papua New Guinea,1980,0.0
+570,Papua New Guinea,1990,0.0
+571,Papua New Guinea,2000,0.0
+572,Papua New Guinea,2010,0.0
+573,Paraguay,1960,0.0
+574,Paraguay,1970,0.0
+575,Paraguay,1980,0.0
+576,Paraguay,1990,0.0
+577,Paraguay,2000,34.0
+578,Paraguay,2010,0.0
+579,Peru,1960,0.0
+580,Peru,1970,0.0
+581,Peru,1980,26.0
+582,Peru,1990,2.0
+583,Peru,2000,0.0
+584,Peru,2010,0.0
+585,Philippines,1960,2.0
+586,Philippines,1970,0.0
+587,Philippines,1980,1.0
+588,Philippines,1990,3.0
+589,Philippines,2000,0.0
+590,Philippines,2010,2.0
+591,Poland,1990,122.0
+592,Poland,2000,117.0
+593,Poland,2010,79.0
+594,Portugal,1960,0.0
+595,Portugal,1970,4.0
+596,Portugal,1980,8.0
+597,Portugal,1990,5.0
+598,Portugal,2000,12.0
+599,Portugal,2010,5.0
+600,Puerto Rico,1960,0.0
+601,Puerto Rico,1970,1.0
+602,Puerto Rico,1980,3.0
+603,Puerto Rico,1990,2.0
+604,Puerto Rico,2000,0.0
+605,Puerto Rico,2010,6.0
+606,Qatar,1980,0.0
+607,Qatar,1990,1.0
+608,Qatar,2000,1.0
+609,Qatar,2010,4.0
+610,Romania,1980,108.0
+611,Romania,1990,174.0
+612,Romania,2000,229.0
+613,Romania,2010,54.0
+614,Rwanda,1980,0.0
+615,Rwanda,1990,0.0
+616,Rwanda,2000,0.0
+617,Rwanda,2010,0.0
+618,Samoa,1980,0.0
+619,Samoa,1990,0.0
+620,Samoa,2000,0.0
+621,Samoa,2010,0.0
+622,San Marino,2000,0.0
+623,San Marino,2010,0.0
+624,Sao Tome and Principe,2000,0.0
+625,Sao Tome and Principe,2010,0.0
+626,Saudi Arabia,1970,0.0
+627,Saudi Arabia,1980,0.0
+628,Saudi Arabia,1990,0.0
+629,Saudi Arabia,2000,3.0
+630,Saudi Arabia,2010,4.0
+631,Senegal,1960,0.0
+632,Senegal,1970,0.0
+633,Senegal,1980,2.0
+634,Senegal,1990,0.0
+635,Senegal,2000,0.0
+636,Senegal,2010,0.0
+637,Serbia,2000,16.0
+638,Serbia,2010,128.0
+639,Seychelles,1980,0.0
+640,Seychelles,1990,0.0
+641,Seychelles,2000,0.0
+642,Seychelles,2010,0.0
+643,Sierra Leone,1960,0.0
+644,Sierra Leone,1980,0.0
+645,Sierra Leone,1990,0.0
+646,Sierra Leone,2000,0.0
+647,Sierra Leone,2010,0.0
+648,Singapore,1960,2.0
+649,Singapore,1970,0.0
+650,Singapore,1980,0.0
+651,Singapore,1990,0.0
+652,Singapore,2000,6.0
+653,Singapore,2010,7.0
+654,Slovenia,1990,4.0
+655,Slovenia,2000,29.0
+656,Slovenia,2010,35.0
+657,Solomon Islands,1980,0.0
+658,Solomon Islands,1990,0.0
+659,Solomon Islands,2000,0.0
+660,Solomon Islands,2010,0.0
+661,Somalia,1970,0.0
+662,Somalia,1980,0.0
+663,Somalia,2010,0.0
+664,South Africa,1960,4.0
+665,South Africa,1990,18.0
+666,South Africa,2000,30.0
+667,South Africa,2010,57.0
+668,Spain,1960,14.0
+669,Spain,1970,16.0
+670,Spain,1980,93.0
+671,Spain,1990,318.0
+672,Spain,2000,245.0
+673,Spain,2010,182.0
+674,Sri Lanka,1960,0.0
+675,Sri Lanka,1970,0.0
+676,Sri Lanka,1980,0.0
+677,Sri Lanka,1990,0.0
+678,Sri Lanka,2000,2.0
+679,Sri Lanka,2010,0.0
+680,Sudan,1960,0.0
+681,Sudan,1970,0.0
+682,Sudan,1980,0.0
+683,Sudan,1990,0.0
+684,Sudan,2000,2.0
+685,Sudan,2010,0.0
+686,Suriname,1960,0.0
+687,Suriname,1970,0.0
+688,Suriname,1980,3.0
+689,Suriname,1990,1.0
+690,Suriname,2000,0.0
+691,Suriname,2010,0.0
+692,Sweden,1960,162.0
+693,Sweden,1970,78.0
+694,Sweden,1980,232.0
+695,Sweden,1990,213.0
+696,Sweden,2000,278.0
+697,Sweden,2010,240.0
+698,Switzerland,1960,56.0
+699,Switzerland,1980,86.0
+700,Switzerland,1990,68.0
+701,Switzerland,2000,117.0
+702,Switzerland,2010,102.0
+703,Tajikistan,1990,0.0
+704,Tajikistan,2000,3.0
+705,Tajikistan,2010,4.0
+706,Tanzania,1980,0.0
+707,Tanzania,1990,0.0
+708,Tanzania,2000,0.0
+709,Tanzania,2010,0.0
+710,Thailand,1960,0.0
+711,Thailand,1970,1.0
+712,Thailand,1980,3.0
+713,Thailand,1990,5.0
+714,Thailand,2000,30.0
+715,Thailand,2010,17.0
+716,Togo,1970,0.0
+717,Togo,1980,0.0
+718,Togo,1990,0.0
+719,Togo,2000,1.0
+720,Togo,2010,0.0
+721,Tonga,1980,0.0
+722,Tonga,1990,2.0
+723,Tonga,2000,0.0
+724,Tonga,2010,0.0
+725,Trinidad and Tobago,1960,7.0
+726,Trinidad and Tobago,1970,3.0
+727,Trinidad and Tobago,1980,0.0
+728,Trinidad and Tobago,1990,2.0
+729,Trinidad and Tobago,2000,21.0
+730,Trinidad and Tobago,2010,17.0
+731,Tunisia,1960,4.0
+732,Tunisia,1970,2.0
+733,Tunisia,1980,0.0
+734,Tunisia,1990,1.0
+735,Tunisia,2000,3.0
+736,Tunisia,2010,9.0
+737,Turkmenistan,1990,0.0
+738,Turkmenistan,2000,0.0
+739,Turkmenistan,2010,0.0
+740,Tuvalu,2000,0.0
+741,Tuvalu,2010,0.0
+742,Uganda,1960,3.0
+743,Uganda,1970,5.0
+744,Uganda,1980,2.0
+745,Uganda,1990,1.0
+746,Uganda,2000,0.0
+747,Uganda,2010,3.0
+748,Ukraine,1990,65.0
+749,Ukraine,2000,189.0
+750,Ukraine,2010,89.0
+751,United Arab Emirates,1980,0.0
+752,United Arab Emirates,1990,0.0
+753,United Arab Emirates,2000,3.0
+754,United Arab Emirates,2010,1.0
+755,United States,1960,1170.0
+756,United States,1970,796.0
+757,United States,1980,1397.0
+758,United States,1990,1213.0
+759,United States,2000,1995.0
+760,United States,2010,1415.0
+761,Uruguay,1960,1.0
+762,Uruguay,1970,0.0
+763,Uruguay,1980,0.0
+764,Uruguay,1990,0.0
+765,Uruguay,2000,2.0
+766,Uruguay,2010,0.0
+767,Uzbekistan,1990,6.0
+768,Uzbekistan,2000,27.0
+769,Uzbekistan,2010,28.0
+770,Vanuatu,1980,0.0
+771,Vanuatu,1990,0.0
+772,Vanuatu,2000,0.0
+773,Vanuatu,2010,0.0
+774,Zambia,1960,0.0
+775,Zambia,1970,0.0
+776,Zambia,1980,1.0
+777,Zambia,1990,2.0
+778,Zambia,2000,0.0
+779,Zambia,2010,0.0
+780,Zimbabwe,1960,0.0
+781,Zimbabwe,1980,45.0
+782,Zimbabwe,1990,0.0
+783,Zimbabwe,2000,15.0
+784,Zimbabwe,2010,0.0
